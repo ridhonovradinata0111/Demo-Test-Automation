@@ -33,9 +33,6 @@ WebUI.setText(findTestObject('Object Repository/Page_Free Online Form Builder  F
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Password_pass'), 
     Password)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Confirm Password_confirmPass'), 
-    ConfirmPassword)
-
 WebUI.click(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/button_Sign up'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/div_Please agree terms and conditions'), 
