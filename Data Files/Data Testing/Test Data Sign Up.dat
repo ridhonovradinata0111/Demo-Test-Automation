@@ -7,11 +7,11 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>141a2e87-3ecf-4601-9440-1dba8268ddb5</dataFileGUID>
-   <dataSourceUrl></dataSourceUrl>
+   <dataSourceUrl>E:\Metrocomm\Data Sign Up.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
-   <sheetName></sheetName>
+   <sheetName>Sheet1</sheetName>
    <usingGlobalDBSetting>false</usingGlobalDBSetting>
 </DataFileEntity>
