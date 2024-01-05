@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>aaa0caf4-f676-4170-9f77-119e3a3c7d88</webElementGuid>
+      <webElementGuid>ed5ffdbf-a82f-4f94-8f8f-9114523537c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>noTranslate sacl-terms</value>
-      <webElementGuid>d7be1820-98dc-49a6-aa58-5ce4d67b07b2</webElementGuid>
+      <webElementGuid>ad56409b-d113-4345-9d9d-81edb021a6ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>for</name>
       <type>Main</type>
       <value>terms</value>
-      <webElementGuid>5e549c79-6df2-4ee3-bfa5-4aae86e6c92b</webElementGuid>
+      <webElementGuid>d9395f2d-6b29-4b40-a7ac-813c91ca4cd0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>I agree to the Terms of Service and Privacy Policy. </value>
-      <webElementGuid>afb376d0-444e-464f-85c6-66e11bb87f2a</webElementGuid>
+      <webElementGuid>d409b065-65cb-4284-92b3-f38be44cf58c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;termsField&quot;)/div[@class=&quot;xcl-terms-wr noTranslate&quot;]/label[@class=&quot;noTranslate sacl-terms&quot;]</value>
-      <webElementGuid>230211f4-5c10-4a99-b713-a998642d4661</webElementGuid>
+      <webElementGuid>3427f311-6372-4cb0-a8c2-febdab64aa71</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='termsField']/div/label</value>
-      <webElementGuid>346f357f-e724-4c9c-bf82-66e371e6f0ce</webElementGuid>
+      <webElementGuid>8690cd83-0089-4159-b222-3cabb7f8d518</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Password'])[2]/following::label[1]</value>
-      <webElementGuid>b61f0809-c258-4edf-9142-07114f441f2f</webElementGuid>
+      <webElementGuid>92a4d13c-03ee-4cd3-a6a9-67f293285eb5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm Password'])[1]/following::label[1]</value>
-      <webElementGuid>d13638de-ae81-49dd-b753-5488984294cf</webElementGuid>
+      <webElementGuid>d5aa73fb-f925-4013-97f6-ed598268ba17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='I agree to the']/parent::*</value>
-      <webElementGuid>5a2f85f5-10ca-4510-a030-5ecccebfe0f5</webElementGuid>
+      <webElementGuid>54111144-2e53-4641-9d63-ad065a674a6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/label</value>
-      <webElementGuid>aa9940e9-4a79-4115-a2d9-ea5f58bd5397</webElementGuid>
+      <webElementGuid>3238d16f-7de5-4d1e-86cb-f359d9294ed9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'I agree to the Terms of Service and Privacy Policy. ' or . = 'I agree to the Terms of Service and Privacy Policy. ')]</value>
-      <webElementGuid>c5eb7c0a-48c6-4a59-9bfa-a7e89fad5851</webElementGuid>
+      <webElementGuid>86df1ea0-5700-4c7f-afee-2b11952f527a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
