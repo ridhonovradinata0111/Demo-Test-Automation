@@ -25,16 +25,16 @@ WebUI.click(findTestObject('Object Repository/Page_Free Online Form Builder  For
 
 WebUI.click(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/button_Sign up with Email'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Name_name'), 'Ridho Dasi')
+WebUI.setText(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Name_name'), Name)
 
 WebUI.setText(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Email_email'), 
-    'ridhodasi123@gmail.com')
+    Email)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Password_pass'), 
-    '+n0fQe3JT2u7zO3KQGfJLg==')
+    Password)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Confirm Password_confirmPass'), 
-    '+n0fQe3JT2u7zO3KQGfJLg==')
+    Confirm Password)
 
 WebUI.click(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/label_I agree to the Terms of Service and P_8aeb5a'))
 
