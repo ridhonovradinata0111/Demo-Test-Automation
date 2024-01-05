@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign Up Process</description>
+   <name>SignUp_TC11</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ced0c628-110e-492b-bef6-17ee7dcecbc5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>355d26b6-509e-428f-a79c-52c53b0606ea</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d6e3a621-580b-40fa-8303-a3e315b40048</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c8bfd422-b58e-44d7-a1c9-0181a02d63a8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>355d26b6-509e-428f-a79c-52c53b0606ea</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d6e3a621-580b-40fa-8303-a3e315b40048</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c8bfd422-b58e-44d7-a1c9-0181a02d63a8</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
