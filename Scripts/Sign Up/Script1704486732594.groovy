@@ -17,29 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://www.jotform.com/')
-
-WebUI.click(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/a_Sign Up for Free'))
-
-WebUI.click(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/button_Sign up with Email'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Name_name'), Name)
-
-WebUI.setText(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Email_email'), 
-    Email)
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Password_pass'), 
-    Password)
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Confirm Password_confirmPass'), 
-    ConfirmPassword)
-
-WebUI.click(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/button_Sign up'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/div_Please agree terms and conditions'), 
-    'Please agree terms and conditions')
-
-WebUI.closeBrowser()
-

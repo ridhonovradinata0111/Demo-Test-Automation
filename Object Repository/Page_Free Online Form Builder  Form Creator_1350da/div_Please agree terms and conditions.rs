@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Please agree terms and conditions</name>
+   <tag></tag>
+   <elementGuidId>82b36c56-5be0-405c-80e6-bb79ed48210f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.xcl-lbl-err.forTerms.isVisible</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='termsField']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8c3855b6-fa41-458c-b017-0155d7163c68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>e443fdc2-4cd6-4daa-882d-68759e6d9020</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xcl-lbl-err forTerms isVisible</value>
+      <webElementGuid>c6783200-cb54-4ba1-8713-ef5ef8ba156d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please agree terms and conditions</value>
+      <webElementGuid>91ac1f71-cf06-46ed-b205-74fb04ecf02f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;termsField&quot;)/div[@class=&quot;xcl-lbl-err forTerms isVisible&quot;]</value>
+      <webElementGuid>6f42b454-2e08-45f1-aba2-6d3c0160ec7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='termsField']/div[2]</value>
+      <webElementGuid>be76659e-85c5-4c7a-b382-ff909cfbfb39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/following::div[1]</value>
+      <webElementGuid>3f3ff120-1133-4e12-97ae-5b51f20d2492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of Service'])[1]/following::div[1]</value>
+      <webElementGuid>7c1fba43-b12b-4212-b8c6-1aa60dc5ce3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/preceding::div[1]</value>
+      <webElementGuid>bbacc61a-3e3c-4183-b75b-6f8a613f07dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please agree terms and conditions']/parent::*</value>
+      <webElementGuid>64ed465c-d298-45e9-9958-c3f4ba1a1101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]</value>
+      <webElementGuid>1c927adc-f8bd-46ca-ad14-1548d1cb0195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Please agree terms and conditions' or . = 'Please agree terms and conditions')]</value>
+      <webElementGuid>b6df71ab-e815-40ef-9fd1-71edbe6648cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

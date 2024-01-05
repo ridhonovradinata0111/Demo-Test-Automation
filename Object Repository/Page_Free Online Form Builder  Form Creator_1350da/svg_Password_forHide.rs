@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#flyin-close-banner > svg</value>
+         <value>svg.forHide</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::*[name()='svg'][1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::*[name()='svg'][1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>c82a4ae3-8f9d-426a-8053-9433faba829e</webElementGuid>
+      <webElementGuid>df85b9bc-4523-4b2d-a1f1-c94ab1bfb154</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,23 +30,23 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>1f259cd5-b780-473a-ae88-cf5375d211cf</webElementGuid>
+      <webElementGuid>4894e451-9a0e-47b0-80a4-dd30b348e334</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>fill</name>
       <type>Main</type>
-      <value>none</value>
-      <webElementGuid>f474f9e8-f947-4aeb-ac36-310ecd73a528</webElementGuid>
+      <value>currentColor</value>
+      <webElementGuid>49a1d9ff-a6ea-4fec-b731-43f5a0916c85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>viewBox</name>
       <type>Main</type>
-      <value>0 0 36 36</value>
-      <webElementGuid>55fdcfb3-c2af-47e2-9b02-db7aad3e6464</webElementGuid>
+      <value>0 0 24 24</value>
+      <webElementGuid>10ba7dc2-f7b1-4d58-bab9-7443ca38c01e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,15 +54,15 @@
       <name>class</name>
       <type>Main</type>
       <value>forHide</value>
-      <webElementGuid>7fd6be50-28bc-4408-9147-94183ab0976b</webElementGuid>
+      <webElementGuid>166410b4-ac01-41a3-84b7-2d28d036dcab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;flyin-close-banner&quot;)/svg[1]</value>
-      <webElementGuid>b6fe2902-0a76-4f95-9d5e-9140c31c2469</webElementGuid>
+      <value>id(&quot;passwordField&quot;)/button[@class=&quot;xcl-togglePass-btn noTranslate&quot;]/span[@class=&quot;xcl-togglePass-icon&quot;]/svg[@class=&quot;forHide&quot;]</value>
+      <webElementGuid>4ff62b9d-2a2d-4330-b5ca-0db520d10b7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>width</name>
       <type>Main</type>
       <value>36</value>
-      <webElementGuid>454b8a89-c8a2-4614-bc17-4ca57edfea42</webElementGuid>
+      <webElementGuid>70326fe0-2008-4a11-87eb-165b575e4804</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,39 +78,15 @@
       <name>height</name>
       <type>Main</type>
       <value>36</value>
-      <webElementGuid>29ba944a-9288-4b6c-8f09-dae3a0cc2d1f</webElementGuid>
+      <webElementGuid>bc3fd37e-3294-4998-968b-43bd9e3b48e7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>1119ec6f-9654-440e-b85e-53679c7c6661</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up for Free'])[1]/preceding::*[name()='svg'][2]</value>
-      <webElementGuid>bc4aa944-997a-4925-8087-48d8c80e5995</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Forms'])[1]/preceding::*[name()='svg'][2]</value>
-      <webElementGuid>36ccc7cb-f55a-498d-8054-951d9098ca86</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>05a9e0c1-c441-41e2-9609-eaf4c1a39065</webElementGuid>
+      <webElementGuid>2b4ee12e-018a-42d6-9a8a-d43c31f1d6dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[2]/following::*[name()='svg'][1]</value>
-      <webElementGuid>cd81751d-d1c3-42ca-add4-b9b73e900c51</webElementGuid>
+      <webElementGuid>31f06262-a674-425a-8944-2b51657fc4d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +102,30 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Password'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>cba9c6df-4b39-498b-ad73-30d51271259e</webElementGuid>
+      <webElementGuid>aa5f7443-d8ae-4d84-af25-828af2dca76c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>e85ebf1e-6d90-495a-b0a0-35c71618614a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up for Free'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>b0a12198-c6de-4995-ada5-cd701e19458e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Forms'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>f40dd283-1d91-4f01-89b2-71f1d42e6d67</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

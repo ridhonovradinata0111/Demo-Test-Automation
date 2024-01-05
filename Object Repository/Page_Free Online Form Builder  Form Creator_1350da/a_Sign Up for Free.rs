@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9d03e6a6-025b-4a4c-941e-4dd95dba838a</webElementGuid>
+      <webElementGuid>1f920472-fcab-443b-8790-155e6135cadb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>jfHeader-menuListLink jfHeader-dynamicLink jfHeader-signup-action locale</value>
-      <webElementGuid>7107b9ad-b53e-47ad-86b6-351659194988</webElementGuid>
+      <webElementGuid>f020e2f2-9f09-4061-8e70-f54cf7f8c4fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-name</name>
       <type>Main</type>
       <value>signup</value>
-      <webElementGuid>81557a05-5d0f-47ed-aa64-41467478985d</webElementGuid>
+      <webElementGuid>0a9b512d-3811-4b1e-b9a4-c20fa37c661c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9e09e707-7c24-4219-983f-4a2d2fc0aa4b</webElementGuid>
+      <webElementGuid>324501fc-5a1d-4a6d-ad57-b80267f66149</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>748c932e-39a5-4381-87d9-ba8df3977f9c</webElementGuid>
+      <webElementGuid>4e6579c6-f7e5-4f99-9b96-922a2ec069f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign Up for Free</value>
-      <webElementGuid>3df313c8-1715-4e01-9dcf-9ad477d2f27c</webElementGuid>
+      <webElementGuid>8f4b4507-753a-4d4c-9e33-0454bef0ca01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;loginSignup&quot;)/li[@class=&quot;jfHeader-menuListItem hasSubMenu signup-btn-wrapper&quot;]/a[@class=&quot;jfHeader-menuListLink jfHeader-dynamicLink jfHeader-signup-action locale&quot;]</value>
-      <webElementGuid>dccfedca-36d3-466f-87c1-7a58e5ac031e</webElementGuid>
+      <webElementGuid>86df0210-2f9e-4f70-afd7-a4887c15f852</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='loginSignup']/li[2]/a</value>
-      <webElementGuid>74eab296-dddf-4f7e-bffc-572a91b6ec30</webElementGuid>
+      <webElementGuid>a02c4cf2-3f89-4f31-bfb0-3d671403e908</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Sign Up for Free')])[2]</value>
-      <webElementGuid>39740b68-b69d-42dc-862e-76c81cdde5c0</webElementGuid>
+      <webElementGuid>fcdc8af2-901d-4c40-9b03-e33d58f6824e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::a[1]</value>
-      <webElementGuid>31832f51-f943-4f30-b3de-ee73ea6e16cc</webElementGuid>
+      <webElementGuid>f77cb602-4b08-408d-bea6-0d1e0b31a21f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SAVE 50%'])[2]/following::a[2]</value>
-      <webElementGuid>cc5a626b-afa9-49b7-95d6-1f58dcc9763e</webElementGuid>
+      <webElementGuid>3eb2f47f-bb83-4a0b-b7f8-a1e8968be474</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Dialog'])[1]/preceding::a[1]</value>
-      <webElementGuid>2ff2efbf-2233-4a05-8c1e-4f7b5e180f3e</webElementGuid>
+      <webElementGuid>b90fc377-a629-45c4-abd3-7de6ba84ae08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='EASIEST ONLINE FORM BUILDER'])[1]/preceding::a[1]</value>
-      <webElementGuid>35525e4f-4b4c-4088-943c-297f320a92e7</webElementGuid>
+      <webElementGuid>c931bba6-ab0a-4be2-bba0-89cdf12f1e5b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/ul/li[2]/a</value>
-      <webElementGuid>4fcb43ab-a7e8-49a3-bb27-db000774e2e5</webElementGuid>
+      <webElementGuid>d08b4cd8-a5b2-4992-afdb-7f7b410bdd92</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'Sign Up for Free' or . = 'Sign Up for Free')]</value>
-      <webElementGuid>ad8fe020-e720-4221-8af8-efba0749d5ef</webElementGuid>
+      <webElementGuid>89742e6b-6cc9-4766-ab24-02793a4d41cb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8a61b9bb-30e7-440e-8ea0-e155e1d85f4e</webElementGuid>
+      <webElementGuid>21d66d58-5fcf-4242-ab70-d9244d50d636</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>xcl-button-gr button-signup test_signupRegular</value>
-      <webElementGuid>5083f1d5-9598-4583-9984-49875d439481</webElementGuid>
+      <webElementGuid>ee9fd5cd-cc6d-4782-9648-5a9e31ff8465</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>6b095101-5e8a-4bb9-90fa-f738db1c4f36</webElementGuid>
+      <webElementGuid>8d2c253e-28a6-471e-b3a7-ccf67fd73c8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>signupButton</value>
-      <webElementGuid>28c7c7ef-76b9-4011-b7ec-5fdc730e0f44</webElementGuid>
+      <webElementGuid>7a86a0d9-3299-4379-acae-e73be970ab6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign up</value>
-      <webElementGuid>bf304018-3fe1-412c-81c2-d2a2fabebf90</webElementGuid>
+      <webElementGuid>ae85540f-d925-4397-a13b-6eb9b776cd74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;signupButton&quot;)</value>
-      <webElementGuid>59304665-8a8d-498e-ba42-7ca433ad782b</webElementGuid>
+      <webElementGuid>1b09393a-f5bb-4cc6-997a-385af68a62ce</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='signupButton']</value>
-      <webElementGuid>93086104-baff-4344-9c5c-a5bad1412744</webElementGuid>
+      <webElementGuid>39cff16c-d30d-443e-ab90-546792092547</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='registrationForm']/button</value>
-      <webElementGuid>6aef3b3d-5949-439c-b222-21f7b3030840</webElementGuid>
+      <webElementGuid>3bea1a7c-ccfe-46db-a5c3-bdaa331e715e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/following::button[1]</value>
-      <webElementGuid>6894e1b3-fde6-40e2-86ce-14acc514e3fd</webElementGuid>
+      <webElementGuid>b20a4489-27b5-4830-9c46-f026fd38a286</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of Service'])[1]/following::button[1]</value>
-      <webElementGuid>e5f26e55-9523-489e-bcec-d3ec5d5cdbe5</webElementGuid>
+      <webElementGuid>c0e0930a-3d2a-4b61-9138-c7db13f6485d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/preceding::button[1]</value>
-      <webElementGuid>d587b4ef-031b-468d-9d66-34372aaa33f8</webElementGuid>
+      <webElementGuid>e7d6827f-ba1b-4758-a092-1d1251af258e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign up']/parent::*</value>
-      <webElementGuid>8f61f695-ea48-47f3-9a74-70b821cde5b2</webElementGuid>
+      <webElementGuid>11d6ff49-0587-4d52-ad73-7ff58c0082f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button</value>
-      <webElementGuid>6f9e0eeb-90b9-45aa-8963-a1f773639fb1</webElementGuid>
+      <webElementGuid>01860a06-0e62-4098-9ba8-216948860a69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and @id = 'signupButton' and (text() = 'Sign up' or . = 'Sign up')]</value>
-      <webElementGuid>d9938037-12f1-4897-afb6-45343a143a32</webElementGuid>
+      <webElementGuid>6813f6b4-1f77-455c-965c-9c746f2b043a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

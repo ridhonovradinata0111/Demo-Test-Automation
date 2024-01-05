@@ -26,7 +26,9 @@ WebUI.click(findTestObject('Object Repository/Page_Free Online Form Builder  For
 WebUI.click(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/button_Sign up with Email'))
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Password_pass'), 
-    'fONgkG3v+Sp93oeYq6SWWQ==')
+    Password)
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/svg_Password_forHide'))
 
 WebUI.click(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/svg_Password_forHide'))
 

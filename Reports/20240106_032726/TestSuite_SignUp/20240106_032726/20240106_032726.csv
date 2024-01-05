@@ -1,0 +1,94 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite_SignUp,Chrome 120.0.0.0,,,2024-01-06 03:27:30,2024-01-06 03:30:01,2m - 31.148s,FAILED
+,,,,,,,
+Test Cases/SignUp_TC01,Chrome 120.0.0.0,Sign Up Process,,2024-01-06 03:27:31,2024-01-06 03:27:45,13.925s,FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-06 03:27:32,2024-01-06 03:27:37,4.789s,PASSED
+"navigateToUrl(""https://www.jotform.com/"")",Chrome 120.0.0.0,,,2024-01-06 03:27:37,2024-01-06 03:27:39,2.082s,PASSED
+"click(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/a_Sign Up for Free""))",Chrome 120.0.0.0,,,2024-01-06 03:27:39,2024-01-06 03:27:40,0.804s,PASSED
+"click(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/button_Sign up with Email""))",Chrome 120.0.0.0,,,2024-01-06 03:27:40,2024-01-06 03:27:42,2.335s,PASSED
+"setText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Name_name""), Name)",Chrome 120.0.0.0,,,2024-01-06 03:27:42,2024-01-06 03:27:43,1.348s,PASSED
+"setText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Email_email""), Email)",Chrome 120.0.0.0,,,2024-01-06 03:27:43,2024-01-06 03:27:45,1.096s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Password_pass""), Password)",Chrome 120.0.0.0,,,2024-01-06 03:27:45,2024-01-06 03:27:45,0.356s,FAILED
+,,,,,,,
+Test Cases/SignUp_TC02,Chrome 120.0.0.0,Sign Up Process,,2024-01-06 03:27:45,2024-01-06 03:27:57,12.064s,FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-06 03:27:46,2024-01-06 03:27:49,3.582s,PASSED
+"navigateToUrl(""https://www.jotform.com/"")",Chrome 120.0.0.0,,,2024-01-06 03:27:49,2024-01-06 03:27:50,0.550s,PASSED
+"click(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/a_Sign Up for Free""))",Chrome 120.0.0.0,,,2024-01-06 03:27:50,2024-01-06 03:27:52,2.345s,PASSED
+"click(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/button_Sign up with Email""))",Chrome 120.0.0.0,,,2024-01-06 03:27:52,2024-01-06 03:27:55,2.271s,PASSED
+"setText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Name_name""), Name)",Chrome 120.0.0.0,,,2024-01-06 03:27:55,2024-01-06 03:27:56,1.308s,PASSED
+"setText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Email_email""), Email)",Chrome 120.0.0.0,,,2024-01-06 03:27:56,2024-01-06 03:27:57,0.983s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Password_pass""), Password)",Chrome 120.0.0.0,,,2024-01-06 03:27:57,2024-01-06 03:27:57,0.257s,FAILED
+,,,,,,,
+Test Cases/SignUp_TC03,Chrome 120.0.0.0,Sign Up Process,,2024-01-06 03:27:57,2024-01-06 03:28:08,11.049s,FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-06 03:27:58,2024-01-06 03:28:01,3.009s,PASSED
+"navigateToUrl(""https://www.jotform.com/"")",Chrome 120.0.0.0,,,2024-01-06 03:28:01,2024-01-06 03:28:04,2.943s,PASSED
+"click(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/a_Sign Up for Free""))",Chrome 120.0.0.0,,,2024-01-06 03:28:04,2024-01-06 03:28:05,0.671s,PASSED
+"click(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/button_Sign up with Email""))",Chrome 120.0.0.0,,,2024-01-06 03:28:05,2024-01-06 03:28:07,2.188s,PASSED
+"setText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Email_email""), Email)",Chrome 120.0.0.0,,,2024-01-06 03:28:07,2024-01-06 03:28:08,1.256s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Password_pass""), Password)",Chrome 120.0.0.0,,,2024-01-06 03:28:08,2024-01-06 03:28:08,0.225s,FAILED
+,,,,,,,
+Test Cases/SignUp_TC04,Chrome 120.0.0.0,Sign Up Process,,2024-01-06 03:28:08,2024-01-06 03:28:19,11.186s,FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-06 03:28:09,2024-01-06 03:28:12,3.083s,PASSED
+"navigateToUrl(""https://www.jotform.com/"")",Chrome 120.0.0.0,,,2024-01-06 03:28:12,2024-01-06 03:28:14,2.016s,PASSED
+"click(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/a_Sign Up for Free""))",Chrome 120.0.0.0,,,2024-01-06 03:28:14,2024-01-06 03:28:15,0.584s,PASSED
+"click(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/button_Sign up with Email""))",Chrome 120.0.0.0,,,2024-01-06 03:28:15,2024-01-06 03:28:17,2.245s,PASSED
+"setText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Name_name""), Name)",Chrome 120.0.0.0,,,2024-01-06 03:28:17,2024-01-06 03:28:18,1.256s,PASSED
+"setText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Email_email""), Email)",Chrome 120.0.0.0,,,2024-01-06 03:28:18,2024-01-06 03:28:19,0.901s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Password_pass""), Password)",Chrome 120.0.0.0,,,2024-01-06 03:28:19,2024-01-06 03:28:19,0.255s,FAILED
+,,,,,,,
+Test Cases/SignUp_TC05,Chrome 120.0.0.0,Sign Up Process,,2024-01-06 03:28:20,2024-01-06 03:28:34,14.747s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-06 03:28:20,2024-01-06 03:28:24,3.312s,PASSED
+"navigateToUrl(""https://www.jotform.com/"")",Chrome 120.0.0.0,,,2024-01-06 03:28:24,2024-01-06 03:28:26,2.086s,PASSED
+"click(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/a_Sign Up for Free""))",Chrome 120.0.0.0,,,2024-01-06 03:28:26,2024-01-06 03:28:26,0.681s,PASSED
+"click(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/button_Sign up with Email""))",Chrome 120.0.0.0,,,2024-01-06 03:28:26,2024-01-06 03:28:29,2.227s,PASSED
+"setText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Name_name""), Name)",Chrome 120.0.0.0,,,2024-01-06 03:28:29,2024-01-06 03:28:30,1.238s,PASSED
+"setText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Email_email""), Email)",Chrome 120.0.0.0,,,2024-01-06 03:28:30,2024-01-06 03:28:31,1.019s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Password_pass""), Password)",Chrome 120.0.0.0,,,2024-01-06 03:28:31,2024-01-06 03:28:32,0.665s,PASSED
+"click(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/label_I agree to the Terms of Service and P_8aeb5a""))",Chrome 120.0.0.0,,,2024-01-06 03:28:32,2024-01-06 03:28:32,0.463s,PASSED
+"click(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/button_Sign up""))",Chrome 120.0.0.0,,,2024-01-06 03:28:32,2024-01-06 03:28:33,0.602s,PASSED
+"verifyElementText(findTestObject(""Page_Free Online Form Builder  Form Creator_1350da/p_Your password must include at least""), ""Your password must include at least"")",Chrome 120.0.0.0,,,2024-01-06 03:28:33,2024-01-06 03:28:33,0.569s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-06 03:28:33,2024-01-06 03:28:34,1.125s,PASSED
+,,,,,,,
+Test Cases/SignUp_TC06,Chrome 120.0.0.0,Sign Up Process,,2024-01-06 03:28:34,2024-01-06 03:28:45,10.606s,FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-06 03:28:35,2024-01-06 03:28:37,2.247s,PASSED
+"navigateToUrl(""https://www.jotform.com/"")",Chrome 120.0.0.0,,,2024-01-06 03:28:37,2024-01-06 03:28:39,1.858s,PASSED
+"click(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/a_Sign Up for Free""))",Chrome 120.0.0.0,,,2024-01-06 03:28:39,2024-01-06 03:28:40,0.672s,PASSED
+"click(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/button_Sign up with Email""))",Chrome 120.0.0.0,,,2024-01-06 03:28:40,2024-01-06 03:28:42,2.460s,PASSED
+"setText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Name_name""), Name)",Chrome 120.0.0.0,,,2024-01-06 03:28:42,2024-01-06 03:28:44,1.444s,PASSED
+"setText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Email_email""), Email)",Chrome 120.0.0.0,,,2024-01-06 03:28:44,2024-01-06 03:28:45,1.007s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Password_pass""), Password)",Chrome 120.0.0.0,,,2024-01-06 03:28:45,2024-01-06 03:28:45,0.269s,FAILED
+,,,,,,,
+Test Cases/SignUp_TC07,Chrome 120.0.0.0,Sign Up Process,,2024-01-06 03:28:45,2024-01-06 03:28:58,12.870s,FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-06 03:28:46,2024-01-06 03:28:49,2.984s,PASSED
+"navigateToUrl(""https://www.jotform.com/"")",Chrome 120.0.0.0,,,2024-01-06 03:28:49,2024-01-06 03:28:52,3.196s,PASSED
+"click(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/a_Sign Up for Free""))",Chrome 120.0.0.0,,,2024-01-06 03:28:52,2024-01-06 03:28:53,0.726s,PASSED
+"click(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/button_Sign up with Email""))",Chrome 120.0.0.0,,,2024-01-06 03:28:53,2024-01-06 03:28:55,2.440s,PASSED
+"setText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Name_name""), Name)",Chrome 120.0.0.0,,,2024-01-06 03:28:55,2024-01-06 03:28:57,1.516s,PASSED
+"setText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Email_email""), Email)",Chrome 120.0.0.0,,,2024-01-06 03:28:57,2024-01-06 03:28:58,1.046s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Password_pass""), Password)",Chrome 120.0.0.0,,,2024-01-06 03:28:58,2024-01-06 03:28:58,0.253s,FAILED
+,,,,,,,
+Test Cases/SignUp_TC08,Chrome 120.0.0.0,Sign Up Process,,2024-01-06 03:28:58,2024-01-06 03:29:38,39.811s,FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-06 03:28:58,2024-01-06 03:29:02,3.346s,PASSED
+"navigateToUrl(""https://www.jotform.com/"")",Chrome 120.0.0.0,,,2024-01-06 03:29:02,2024-01-06 03:29:04,2.056s,PASSED
+"click(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/a_Sign Up for Free""))",Chrome 120.0.0.0,,,2024-01-06 03:29:04,2024-01-06 03:29:05,0.706s,PASSED
+"click(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/button_Sign up with Email""))",Chrome 120.0.0.0,,,2024-01-06 03:29:05,2024-01-06 03:29:07,2.223s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Password_pass""), ""fONgkG3v+Sp93oeYq6SWWQ=="")",Chrome 120.0.0.0,,,2024-01-06 03:29:07,2024-01-06 03:29:08,0.969s,PASSED
+"click(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/svg_Password_forHide""))",Chrome 120.0.0.0,,,2024-01-06 03:29:08,2024-01-06 03:29:38,29.939s,FAILED
+,,,,,,,
+Test Cases/SignUp_TC09,Chrome 120.0.0.0,Sign Up Process,,2024-01-06 03:29:38,2024-01-06 03:29:50,12.367s,FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-06 03:29:39,2024-01-06 03:29:41,2.872s,PASSED
+"navigateToUrl(""https://www.jotform.com/"")",Chrome 120.0.0.0,,,2024-01-06 03:29:41,2024-01-06 03:29:44,3.109s,PASSED
+"click(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/a_Sign Up for Free""))",Chrome 120.0.0.0,,,2024-01-06 03:29:44,2024-01-06 03:29:45,0.764s,PASSED
+"click(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/button_Sign up with Email""))",Chrome 120.0.0.0,,,2024-01-06 03:29:45,2024-01-06 03:29:48,2.428s,PASSED
+"setText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Name_name""), Name)",Chrome 120.0.0.0,,,2024-01-06 03:29:48,2024-01-06 03:29:49,1.271s,PASSED
+"setText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Email_email""), Email)",Chrome 120.0.0.0,,,2024-01-06 03:29:49,2024-01-06 03:29:50,0.979s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Password_pass""), Password)",Chrome 120.0.0.0,,,2024-01-06 03:29:50,2024-01-06 03:29:50,0.248s,FAILED
+,,,,,,,
+Test Cases/SignUp_TC10,Chrome 120.0.0.0,Sign Up Process,,2024-01-06 03:29:50,2024-01-06 03:30:01,11.114s,FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-06 03:29:51,2024-01-06 03:29:54,3.033s,PASSED
+"navigateToUrl(""https://www.jotform.com/"")",Chrome 120.0.0.0,,,2024-01-06 03:29:54,2024-01-06 03:29:54,0.406s,PASSED
+"click(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/a_Sign Up for Free""))",Chrome 120.0.0.0,,,2024-01-06 03:29:54,2024-01-06 03:29:57,2.219s,PASSED
+"click(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/button_Sign up with Email""))",Chrome 120.0.0.0,,,2024-01-06 03:29:57,2024-01-06 03:29:59,2.198s,PASSED
+"setText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Name_name""), Name)",Chrome 120.0.0.0,,,2024-01-06 03:29:59,2024-01-06 03:30:00,1.262s,PASSED
+"setText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Email_email""), Email)",Chrome 120.0.0.0,,,2024-01-06 03:30:00,2024-01-06 03:30:01,1.079s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Password_pass""), Password)",Chrome 120.0.0.0,,,2024-01-06 03:30:01,2024-01-06 03:30:01,0.272s,FAILED
