@@ -19,21 +19,26 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.jotform.com/website-signup-forms/')
+WebUI.navigateToUrl('https://www.jotform.com/')
 
-WebUI.click(findTestObject('Object Repository/Page_Add Free Signup Forms to your Website _a7303a/button_Sign Up with an email'))
+WebUI.click(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/a_Sign Up for Free'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Add Free Signup Forms to your Website _a7303a/input_Name_name'), 'Anggita Ariesta')
+WebUI.click(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/button_Sign up with Email'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Add Free Signup Forms to your Website _a7303a/input_Email_email'), 
-    'anggitaariesta@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Name_name'), 'Ridho Dasi')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Add Free Signup Forms to your Website _a7303a/input_Password_pass'), 
-    'B/x6rh5DhFCcpNFh/HjJJg==')
+WebUI.setText(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Email_email'), 
+    'ridhodasi123@gmail.com')
 
-WebUI.click(findTestObject('Object Repository/Page_Add Free Signup Forms to your Website _a7303a/label_I agree to the Terms of Service and P_8aeb5a'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Password_pass'), 
+    '+n0fQe3JT2u7zO3KQGfJLg==')
 
-WebUI.click(findTestObject('Object Repository/Page_Add Free Signup Forms to your Website _a7303a/button_Sign up'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/input_Confirm Password_confirmPass'), 
+    '+n0fQe3JT2u7zO3KQGfJLg==')
+
+WebUI.click(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/label_I agree to the Terms of Service and P_8aeb5a'))
+
+WebUI.click(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/button_Sign up'))
 
 WebUI.closeBrowser()
 
