@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_I agree to the Terms of Service and P_8aeb5a</name>
+   <tag></tag>
+   <elementGuidId>d15851ee-edf4-47a8-95b4-5c1d352b426d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.noTranslate.sacl-terms</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='termsField']/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>95dd5edc-6311-4758-ba45-b81873dee037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>noTranslate sacl-terms</value>
+      <webElementGuid>bfb3a36d-7366-4709-b261-c2ef271abf15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>terms</value>
+      <webElementGuid>4f7f6ee0-d566-4693-9079-598336367be4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I agree to the Terms of Service and Privacy Policy. </value>
+      <webElementGuid>d2a59266-37a7-4cc9-8944-74aa046bb0be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;termsField&quot;)/div[@class=&quot;xcl-terms-wr noTranslate&quot;]/label[@class=&quot;noTranslate sacl-terms&quot;]</value>
+      <webElementGuid>cafe6e0e-6e84-4775-94f7-c8173e815de7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='termsField']/div/label</value>
+      <webElementGuid>0a498a58-4430-417e-92ac-eafdaa855914</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Password'])[1]/following::label[1]</value>
+      <webElementGuid>7e54a5b4-028e-4a58-a896-b120319f23c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::label[1]</value>
+      <webElementGuid>5aef5acc-9a9c-4723-9210-ba6c2f0556bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='I agree to the']/parent::*</value>
+      <webElementGuid>77351bfa-1734-46ad-b924-6804b88f8c31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/label</value>
+      <webElementGuid>880f51b9-fe24-40fa-9422-3e459371c418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'I agree to the Terms of Service and Privacy Policy. ' or . = 'I agree to the Terms of Service and Privacy Policy. ')]</value>
+      <webElementGuid>1e4e2fef-4545-4d81-a305-14e01fceeb91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

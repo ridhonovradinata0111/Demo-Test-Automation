@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sign Up with an email</name>
+   <tag></tag>
+   <elementGuidId>9ddb8b82-12e8-4044-a94a-ecf3452b1044</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.trioButton.noIcon.signupCta.js-showModal.locale</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick=&quot;showModal('s3b')&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fd9b3095-fb1d-47cb-9c93-c884c9f27bef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-jft</name>
+      <type>Main</type>
+      <value>action-click</value>
+      <webElementGuid>86cf4023-f386-4458-8345-da08b6a976a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-jfa</name>
+      <type>Main</type>
+      <value>signup-with-email-website-signup-forms</value>
+      <webElementGuid>2818581f-a452-44b1-9fff-9322f277f62e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>trioButton noIcon signupCta js-showModal locale</value>
+      <webElementGuid>bb404c78-b4aa-419a-903f-812fec02be91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>showModal('s3b')</value>
+      <webElementGuid>63093d84-7ae1-4c86-8564-303ce42b11af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign Up with an email</value>
+      <webElementGuid>a49c26d4-0f50-460a-81e1-f95347ef2ac7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;w-full h-full max-w-100vw overflow-x-hidden jf--single-landing-mode&quot;]/body[@class=&quot;w-full h-full font-circular overflow-x-hidden jf-landings core-min actions eoy2023-body&quot;]/div[@class=&quot;jflb--wrapper&quot;]/section[@class=&quot;jflb--sec jflb--hero full-width reverse text-center&quot;]/div[@class=&quot;jflb--container&quot;]/div[@class=&quot;jflb--line&quot;]/div[@class=&quot;jflb--text-group&quot;]/div[@class=&quot;jflb--actions-group&quot;]/div[@class=&quot;jflb--trio-signup-buttons transparent&quot;]/button[@class=&quot;trioButton noIcon signupCta js-showModal locale&quot;]</value>
+      <webElementGuid>20486247-2ebc-46e8-8096-1b0653422a7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick=&quot;showModal('s3b')&quot;]</value>
+      <webElementGuid>982927f1-48ae-4d74-90d9-211b52d67cf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OR'])[1]/following::button[1]</value>
+      <webElementGuid>1aa48bec-d4c6-420f-80ba-d755eb661053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up with Microsoft'])[1]/following::button[1]</value>
+      <webElementGuid>d8acede0-a660-4374-b25a-3b7f7870ca95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('It', &quot;'&quot;, 's free!')])[1]/preceding::button[1]</value>
+      <webElementGuid>9a29e713-d495-4fea-9091-4bc87745490d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign Up with an email']/parent::*</value>
+      <webElementGuid>1d822487-cd45-42f2-99fe-94cd07bdec16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>b5e54a94-fc96-43c4-9efa-2fe8436116f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Sign Up with an email' or . = 'Sign Up with an email')]</value>
+      <webElementGuid>3459d3ab-5855-4e14-9c2c-10f58cb6da46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
