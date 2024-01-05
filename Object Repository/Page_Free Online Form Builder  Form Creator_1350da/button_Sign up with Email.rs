@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2c69e914-edc6-4953-bfe2-179da674c192</webElementGuid>
+      <webElementGuid>6732ec0c-11f8-4fb8-87a5-4b0b346d440b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>xcl-button-em test_createAccount signup-with-email-button</value>
-      <webElementGuid>45b7bff1-acd5-4c22-90e8-379362e98a7f</webElementGuid>
+      <webElementGuid>32d78222-87aa-4615-b3ef-6d18865bf9a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f43ca1c3-566e-4dda-88b8-3e883b0c0bff</webElementGuid>
+      <webElementGuid>fc8660c7-d3f6-4506-a314-2844f6c6e765</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>signup-with-email</value>
-      <webElementGuid>cb88df42-3cf2-4751-9f75-86b0c62e89db</webElementGuid>
+      <webElementGuid>a21578e3-23df-4da9-804e-c2fe9801c0ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign up with Email</value>
-      <webElementGuid>cdb34266-4ad0-4b1f-9075-c371cfb53e77</webElementGuid>
+      <webElementGuid>d63d585c-5847-40e2-8253-94350751129e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;signup-with-email&quot;)</value>
-      <webElementGuid>178ca775-32c2-4f6e-96c2-83df63078fe7</webElementGuid>
+      <webElementGuid>05af64ac-d4b4-4ed4-9407-6a3ddc79737f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='signup-with-email']</value>
-      <webElementGuid>f18ada76-fa06-4abc-96a3-3a5e584d11b0</webElementGuid>
+      <webElementGuid>80e80c69-aaec-4973-bc6a-cd5992231c6c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='registrationForm']/button</value>
-      <webElementGuid>c2156e87-958b-4c8c-9620-23ba5dbc8010</webElementGuid>
+      <webElementGuid>64d498bd-0eea-4985-8cb3-0898ae15e806</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OR'])[1]/following::button[1]</value>
-      <webElementGuid>b3c001f1-6ffe-4341-9831-6dd4a9959227</webElementGuid>
+      <webElementGuid>f6208a1c-87f2-4e0d-a959-37760f71a697</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up with Facebook'])[1]/following::button[1]</value>
-      <webElementGuid>3d49f2d1-b6c2-476e-b04a-4602479307b8</webElementGuid>
+      <webElementGuid>d735389a-c48a-43fa-aeb6-44d0b7e83c3b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/preceding::button[1]</value>
-      <webElementGuid>20eeb6cc-e9ac-4db1-b15f-721552202b60</webElementGuid>
+      <webElementGuid>633e3352-fd12-4541-9a3d-2cc2ec50e089</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign up with Email']/parent::*</value>
-      <webElementGuid>5ea311fe-a0d6-49d5-a6df-57f84b370c79</webElementGuid>
+      <webElementGuid>91df07c3-9a2f-4b07-9bf6-849dacd04ab7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/button</value>
-      <webElementGuid>808512a6-b6d0-40b9-933d-882bee92b15c</webElementGuid>
+      <webElementGuid>3ca1178a-d5ec-41d4-8bf0-f769f8ff7304</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'signup-with-email' and (text() = 'Sign up with Email' or . = 'Sign up with Email')]</value>
-      <webElementGuid>bd360bbe-f568-4035-b176-82a034a0d8df</webElementGuid>
+      <webElementGuid>91a9d945-b341-45d4-8233-fe5ff9324092</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

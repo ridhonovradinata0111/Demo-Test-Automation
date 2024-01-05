@@ -37,5 +37,7 @@ WebUI.click(findTestObject('Object Repository/Page_Free Online Form Builder  For
 
 WebUI.click(findTestObject('Object Repository/Page_Free Online Form Builder  Form Creator_1350da/button_Sign up'))
 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Forms  Jotform/h1_Create your first Form'), 0)
+
 WebUI.closeBrowser()
 
